@@ -12,7 +12,10 @@ OpenJE is an open source project working to reverse engineer and develop a c++ i
 
 ## Current Status
 
-This project is currently in early development. So far only classes with virtual functions have been identified, and some functions that contain debugging print information hinting at there function names and functionality.
+This project is currently in early development.
+- Many classes have been identified and named.
+- Many class methods have been identified.
+- Functions that contain debugging print information have been identified and named.
 
 ## Projects
 - [**openje-re**](https://github.com/OpenJE/openje-re) is a library dedicated to reverse engineering the unreleased Fallout: Van Buren tech demo.
